@@ -1,0 +1,12 @@
+Name:  Foday 
+Age:   25 
+Class: Form 7
+================ 
+Name:  Sireh 
+Age:   20 
+Class: Form 5
+================ 
+Name:  Fatou 
+Age:   17 
+Class: Form 3
+================ 
